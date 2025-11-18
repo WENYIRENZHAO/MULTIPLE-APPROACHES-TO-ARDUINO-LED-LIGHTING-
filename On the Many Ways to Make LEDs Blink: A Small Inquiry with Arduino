@@ -93,6 +93,7 @@ void loop() {
 
 // #6. LOGICAL (if) 
 06_if_logic/if_logic.ino
+
 const int LED = 7;
 void setup() { pinMode(LED, OUTPUT); }
 void loop() {
